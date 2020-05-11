@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-pip3 install git+https://github.com/valiro21/connect4-gym
+pip3 install git+https://github.com/AmanVirmani/connect4-gym
 ```
 
 ## Usage
